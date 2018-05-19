@@ -8,8 +8,8 @@
 <fileDesc>
 <titleStmt>
 <title>Het Eiland Texel en zijne bewoners</title>
-<author key="Allan, Francis" ref="https://viaf.org/viaf/169274248">Francis Allan (1826&ndash;1908)</author>
-<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+<author key="Allan, Francis" ref="https://viaf.org/viaf/169274248/">Francis Allan (1826&ndash;1908)</author>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
@@ -20,13 +20,14 @@
 <idno type=LibThing>#####</idno>
 <idno type=PGclearance>20130407012202allan</idno>
 <idno type=PGDPProjectId>projectID516138be948d1</idno>
+<idno type=PGSrc>44087-Allan-Het-Eiland-Texel</idno>
 <idno type=epub-id>urn:uuid:ae9d7d72-f040-4495-913c-32ece6414a37</idno>
 <idno type=PGnum>44087</idno>
 <date>2013-11-01</date>
 <availability lang=nl>
 <p>&availability.nl;
 
-<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
 
 </availability>
 </publicationStmt>
@@ -53,8 +54,6 @@
         <language id=nl-1600>Nederlands (17th century spelling)</language>
         <language id=nl>Nederlands</language>
         <language id=en>Engels</language>
-        <language id=de>Duits</language>
-        <language id=fr>Frans</language>
         <language id=la>Latijn</language>
         <language id=la-x-bio>Latijn (biologische namen)</language>
     </langUsage>
@@ -510,16 +509,14 @@
 
 
 <pb id=pb1 n=1>
-</front>
-<body>
 <div1 id=dedic type=Dedication>
 
 
-<p rend="align(center)"><hi>Aan</hi> 
-<lb><hi rend=sc>Zijne Koninklijke Hoogheid</hi> 
-<lb>WILLEM FREDERIK HENDRIK, 
-<lb>PRINS DER NEDERLANDEN, 
-<lb>LUITENANT-ADMIRAAL, 
+<p rend="align(center)"><hi>Aan</hi>
+<lb><hi rend=sc>Zijne Koninklijke Hoogheid</hi>
+<lb>WILLEM FREDERIK HENDRIK,
+<lb>PRINS DER NEDERLANDEN,
+<lb>LUITENANT-ADMIRAAL,
 <lb>OPPERBEVELHEBBER DER VLOOT.
 
 
@@ -530,8 +527,8 @@
 <p>Gelief, DOORLUCHTIGE PRINS! de Opdragt van dezen letterarbeid aan te merken, als een bewijs van den eerbied en trouw des Schrijvers, wien het eene eere is, te zijn
 
 
-<p rend="class(signed)">van UWE KONINKLIJKE HOOGHEID 
-<lb>de <hi rend=ex>Onderdanigste en Gehoorzaamste Dienaar</hi>, 
+<p rend="class(signed)">van UWE KONINKLIJKE HOOGHEID
+<lb>de <hi rend=ex>Onderdanigste en Gehoorzaamste Dienaar</hi>,
 <lb>F. ALLAN.
 
 
@@ -539,6 +536,8 @@
 
 
 <pb id=pb5 n=5>
+</front>
+<body>
 <div1 type=Introduction id=inleiding>
 <head type=label>INLEIDING.</head>
 
@@ -576,7 +575,7 @@
 <p>Tegenwoordig heeft men op <hi rend=sc>Texel</hi>, behalve de hoofdplaats <hi rend=ex>den Burg</hi>, welke geheel het aanzien heeft van een bevallig landstadje, de volgende dorpen en gehuchten: <hi rend=ex>Het Oude Schild of Schil</hi>, het <hi rend=ex>Nieuwe Schild</hi>, <hi rend=ex>Oost</hi>, of <hi rend=ex>om</hi> de <hi rend=ex>Oost</hi>, <hi rend=ex>Zevenhuizen</hi>, <hi rend=ex>Oostereind</hi>, <hi rend=ex>de Waal</hi>, <hi rend=ex>de Cocksdorp</hi>, <hi rend=ex>de Koog</hi> en <hi rend=ex>den Hoorn</hi>&mdash;te zamen (op 1 Jan. 1856) bevattende 1172 huizen, bewoond door 1296 gezinnen, uitmakende eene bevolking van 6109 zielen, waarvan 3101 tot het mannelijk en 3008 tot het vrouwelijk geslacht behooren,&mdash;en, naar de onderscheidene geloofsbelijdenissen, verdeeld wordende in:
 
 
-<table>
+<table id=t1>
 <column>
 <column rend="align(right)">
 <row><cell>Nederduitsch Hervormden        <cell>3768
@@ -601,13 +600,15 @@ Polders en Gehuchten.|       |         |       |       |          |
 =====================+=======+=========+=======+=======+==========+=======================
 -->
 
-<table>
+<table id=t2>
 <column>
 <column rend="align(right)">
 <column rend="align(right)">
 <column rend="align(right)">
 <column rend="align(right)">
 <column rend="align(right)">
+<column>
+<column>
 
 <row role=label>
     <cell>Benaming der Dorpen, Buurtschappen, Polders en Gehuchten.
@@ -742,7 +743,7 @@ Polders en Gehuchten.|       |         |       |       |          |
 <p>454 bunders met tarwe, waarvan de opbrengst is geweest 24 mud per bunder; te zamen 10896 mudden;
 
 
-<table>
+<table id=t3>
 <column rend="align(right)">
 <column>
 <column>
@@ -783,7 +784,7 @@ Polders en Gehuchten.|       |         |       |       |          |
 
 <p>Voorts leggen de oestervisschers zich ook op de palingvisscherij toe, door deze visch op de Waarden, met elgers, uit den grond te zeilen. Deze bezigheid verschaft hun, nadat de wierdroogerij geëindigd is, in den herfst, tot dat de vorst invalt, en ook vroeg in het voorjaar, het noodige levensonderhoud, dat zij overigens, gedurende de maanden Mei en Junij, door de schelpvisscherij trachten te erlangen<note n=2><p>Vooral levert de Schelpbank in het Eijerlandsche Gat eene gunstige opbrengst.
 
-<table>
+<table id=t4>
 <row><cell>Het Oude Schild
     <cell rows=3 rend="image(images/rightbrace3a.png) vertical-align(middle)">
     <cell rows=3 rend="vertical-align(middle)">leverde in 1853
@@ -1306,7 +1307,7 @@ Polders en Gehuchten.|       |         |       |       |          |
 <p>Deze buurtschappen zijn:
 
 
-<table>
+<table id=t5>
 <row><cell>1.       <cell><hi rend=ex>Zevenhuizen</hi>,    <cell>Noordwaarts <cell>gelegen van      <cell><hi rend=ex>Oostereind</hi>.
 <row><cell>2<corr sic=",">.</corr>  <cell><hi rend=ex>Harkenbuurt</hi>,    <cell>Z.O.waarts <cell><ditto>gelegen van</ditto> <cell><ditto><hi rend=ex>Oostereind</hi>.</ditto>
 <row><cell>3.       <cell><hi rend=ex>Spang</hi>,          <cell>N.O.waarts <cell><ditto>gelegen van</ditto> <cell><hi rend=ex>de Waal</hi>.
@@ -1670,18 +1671,24 @@ Polders en Gehuchten.|       |         |       |       |          |
 <pb id=pb134 n=134>
 </body>
 <back id=backmatter>
-<div1 id=table>
+<div1 id=table type=Appendix>
 <head>STAAT van de veranderingen aan het Strand en de Duinen langs de Noordzee van het Horntje tot het Eijerland op het Eiland Texel.</head>
 
 
-<p><table>
-<row>
+<p><table id=t6 rend="font-size(x-small) class(verticalBorderInside)">
+<column>
+<column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)">
+<column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)">
+<column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)">
+<column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)"><column rend="align(right) vertical-align(bottom)">
+
+<row role=label rend="align(center) vertical-align(top)">
     <cell>
     <cell cols=7><hi>Van den 5<hi rend=sup>den</hi> Junij 1850 tot den 24<hi rend=sup>sten</hi> Junij 1854.</hi>
     <cell cols=9><hi>Van den 6<hi rend=sup>den</hi> Junij 1853 tot den 24<hi rend=sup>sten</hi> Junij 1854.</hi>
 
-<row>
-    <cell rows=2>NAMEN DER <hi rend=bold>Bekende Plaatsen</hi>.
+<row role=label rend="align(center) vertical-align(top)">
+    <cell rows=2>NAMEN DER <lb><hi rend=bold>Bekende Plaatsen</hi>.
     <cell rows=2>Lengte in Ellen.
     <cell cols=2>VOET VAN HET DUIN.
     <cell cols=2>LIJN VAN HOOGWATER.
@@ -1692,7 +1699,7 @@ Polders en Gehuchten.|       |         |       |       |          |
     <cell cols=2>LIJN VAN LAAGWATER.
     <cell cols=3>GEMIDDELDE BREEDTE VAN HET STRAND.
 
-<row>
+<row role=label rend="align(center) vertical-align(top)">
     <cell>Verloren in Ellen.
     <cell>Aangewonnen in Ellen.
     <cell>Verloren in Ellen.

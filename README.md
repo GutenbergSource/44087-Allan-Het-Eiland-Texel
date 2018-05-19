@@ -12,7 +12,7 @@ The version maintained in this repository may be slightly out-of-sync with the v
 | Author | Francis Allan (1826–1908) |
 | Publisher | Project Gutenberg, Urbana, Illinois, USA., 2013-11-01 |
 | Publication date | 2013-11-01 |
-| Availability | Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de [Project Gutenberg Licentie](https://www.gutenberg.org/license) bij dit eBoek of on-line op [www.gutenberg.org](https://www.gutenberg.org/). Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op [www.pgdp.net](http://www.pgdp.net/). |
+| Availability | Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de [Project Gutenberg Licentie](https://www.gutenberg.org/license) bij dit eBoek of on-line op [www.gutenberg.org](https://www.gutenberg.org/). Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op [www.pgdp.net](https://www.pgdp.net/). |
 | Keyword | Texel Island (The Netherlands) |
 | Description | Een beschrijving van het eiland Texel uit 1856. |
 | PG Ebook Number | [44087](https://www.gutenberg.org/ebooks/44087) |
